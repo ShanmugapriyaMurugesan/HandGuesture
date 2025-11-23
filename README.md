@@ -1,4 +1,4 @@
-# HandGuesture using python 
+# Touchless Cursor Control using python 
 This project implements a real-time hand gesture recognition system in Python using MediaPipe and OpenCV to control mouse actions. It allows users to move the cursor, perform clicks, and drag-and-drop using hand gestures detected from a webcam. Note that volume and brightness control features are not supported in this version.
 # Features
    * Cursor movement controlled by hand gestures
